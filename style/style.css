@@ -1,13 +1,3 @@
-/*.btn {*/
-/*    appearance: none;*/
-/*    border: 0;*/
-/*    border-radius: 5px;*/
-/*    background: #4676D7;*/
-/*    color: #fff;*/
-/*    padding: 8px 16px;*/
-/*    font-size: 16px;*/
-/*}*/
-
 .h3-validator {
     display: none;
 }
@@ -26,7 +16,6 @@ footer {
     z-index: 1;
 }
 
-
 .footer {
     display: flex;
     flex-direction: column;
@@ -36,9 +25,6 @@ footer {
     font-style: inherit;
 }
 
-/* --- @MEDIA --- */
-
-/* FOOTER */
 @media only screen and (max-width: 767px) {
     footer {
         height: auto;
