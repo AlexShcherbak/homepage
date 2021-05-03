@@ -1,3 +1,17 @@
+/*.btn {*/
+/*    appearance: none;*/
+/*    border: 0;*/
+/*    border-radius: 5px;*/
+/*    background: #4676D7;*/
+/*    color: #fff;*/
+/*    padding: 8px 16px;*/
+/*    font-size: 16px;*/
+/*}*/
+
+.h3-validator {
+    display: none;
+}
+
 footer {
     box-sizing: inherit;
     height: 50vh;
